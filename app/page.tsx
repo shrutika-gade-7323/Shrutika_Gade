@@ -8,6 +8,7 @@ import WorkExperience from "@/components/WorkExperience";
 import { FloatingNav } from "@/components/ui/FloatingNav";
 import { navItems } from "@/data";
 import { FaHome } from "react-icons/fa";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 export default function Home() {
   return (
